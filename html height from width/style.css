@@ -1,0 +1,15 @@
+.width-holder {
+  width: 150px;
+}
+.width-holder .height-holder {
+  padding-top: 75%; /* Тут задается отношение высоты к ширине */
+  position: relative;
+}
+.width-holder .height-holder .content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: yellowgreen;
+}

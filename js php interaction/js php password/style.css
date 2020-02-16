@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+
+.button {
+  padding: 4px 5px;
+  border: 1px solid navy;
+  color: navy;
+  margin-top: 15px;
+  display: inline-block;
+  cursor: pointer;  
+}
+
+.button:active {
+  transform: translate(1px, 1px);
+}
+
+.hidden {
+  display: none;
+}

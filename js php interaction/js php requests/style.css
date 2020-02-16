@@ -1,0 +1,38 @@
+body {
+  background-color: lightblue;
+}
+
+label {
+  display: inline-block;
+  min-width: 45px;
+  margin-bottom: 10px;
+}
+
+.button {
+  padding: 4px 5px;
+  border: 1px solid white;
+  background-color: steelblue;
+  color: white;
+  display: inline-block;
+  cursor: pointer;  
+}
+
+.button:active {
+  transform: translate(1px, 1px);
+}
+
+fieldset {
+  margin-bottom: 10px;
+}
+
+.dataScreen {
+  padding: 10px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}

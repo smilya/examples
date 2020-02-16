@@ -1,0 +1,27 @@
+{
+    "remotePath": "./www/smilya.ru/php/Requests",
+    "host": "31.31.196.24",
+    "username": "u0840192",
+    "password": "D_wV5aH0",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": true,
+    "debug": true,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".js", ".css", ".html", ".dat", ".txt", ".php"
+        ],
+        "path": "./"
+    }
+}
