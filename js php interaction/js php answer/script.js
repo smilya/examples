@@ -10,7 +10,7 @@ document.querySelector(".button").onclick = function () {
     method: "POST",
     body: new FormData(form)
   }).then(responce => responce.text())
-    .then(result => remoteAnswer = result);  
+    .then(result => remoteAnswer(result));  
   
 }
 

@@ -1,0 +1,11 @@
+{
+  "name": "reg_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sync": "browser-sync start --server --files ./*.css, ./*.html, ./*.js,"
+  },
+  "author": "Ilya",
+  "license": "ISC"
+}

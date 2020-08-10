@@ -1,0 +1,8 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon server.js",
+    "sync": "browser-sync start --server --files *.css, *.html, *.js, *.txt"
+  }
+}

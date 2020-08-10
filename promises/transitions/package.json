@@ -1,0 +1,11 @@
+{
+  "name": "js_tests",
+  "version": "1.0.0",
+  "description": "for js tests",
+  "main": "script.js",
+  "scripts": {
+    "sync": "browser-sync start --server --files css/*.css, css/blocks/*.css, ./*.html, js/*.js"
+  },
+  "author": "Ilya Smirnov",
+  "license": "ISC"
+}
